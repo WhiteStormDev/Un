@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: 189afe1a969a8444e86fd42d69c7bfc4
+timeCreated: 1455289133
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: les_smoke_HD_0
+    21300002: les_smoke_HD_1
+    21300004: les_smoke_HD_2
+    21300006: les_smoke_HD_3
+    21300008: les_smoke_HD_4
+    21300010: les_smoke_HD_5
+    21300012: les_smoke_HD_6
+    21300014: les_smoke_HD_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: les_smoke_HD_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1212
+        width: 372
+        height: 382
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 354, y: 325}
+        - {x: 342, y: 369}
+        - {x: 274, y: 369}
+        - {x: 158, y: 312}
+        - {x: 0, y: 48}
+        - {x: 0, y: 0}
+        - {x: 22, y: 0}
+        - {x: 98, y: 58}
+        - {x: 300, y: 224}
+        - {x: 354, y: 312}
+    - name: les_smoke_HD_1
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1210
+        width: 376
+        height: 390
+      alignment: 9
+      pivot: {x: 0.014466387, y: 0.02047839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 336.56064, y: 375.01343}
+        - {x: 240.56064, y: 375.01343}
+        - {x: 12.560638, y: 163.01343}
+        - {x: -5.4393616, y: 62.013428}
+        - {x: -5.4393616, y: -6.9865723}
+        - {x: 101.56064, y: -6.9865723}
+        - {x: 320.56064, y: 178.01343}
+        - {x: 358.56064, y: 303.01343}
+        - {x: 358.56064, y: 334.01343}
+    - name: les_smoke_HD_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 823
+        width: 381
+        height: 381
+      alignment: 9
+      pivot: {x: 0.026681537, y: 0.006229431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 252.83434, y: 378.6266}
+        - {x: 51.834335, y: 223.62659}
+        - {x: -5.1656647, y: 41.626587}
+        - {x: -5.1656647, y: -1.3734131}
+        - {x: -4.1656647, y: -2.373413}
+        - {x: 16.834335, y: -2.373413}
+        - {x: 81.834335, y: 0.6265869}
+        - {x: 298.83435, y: 221.62659}
+        - {x: 350.83435, y: 302.6266}
+        - {x: 350.83435, y: 378.6266}
+    - name: les_smoke_HD_3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 819
+        width: 389
+        height: 389
+      alignment: 9
+      pivot: {x: 0.042138893, y: 0.0077991635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 308.60797, y: 378.96613}
+        - {x: 214.60797, y: 334.96613}
+        - {x: -4.392029, y: 91.966125}
+        - {x: -4.392029, y: -3.0338745}
+        - {x: 19.607971, y: -3.0338745}
+        - {x: 83.60797, y: 30.966125}
+        - {x: 359.60797, y: 286.96613}
+        - {x: 359.60797, y: 349.96613}
+        - {x: 338.60797, y: 378.96613}
+    - name: les_smoke_HD_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 417
+        width: 377
+        height: 393
+      alignment: 9
+      pivot: {x: 0.024612313, y: 0.032636415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 199.72116, y: 375.1739}
+        - {x: 11.721161, y: 184.17389}
+        - {x: -5.278839, y: 104.17389}
+        - {x: -5.278839, y: -4.826111}
+        - {x: 97.72116, y: -4.826111}
+        - {x: 357.72116, y: 223.17389}
+        - {x: 357.72116, y: 372.1739}
+        - {x: 353.72116, y: 375.1739}
+    - name: les_smoke_HD_5
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 419
+        width: 384
+        height: 397
+      alignment: 9
+      pivot: {x: 0.027480602, y: 0.026129505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 328.44745, y: 386.6266}
+        - {x: 166.44745, y: 386.6266}
+        - {x: -4.5525513, y: 145.62659}
+        - {x: -4.5525513, y: -6.373413}
+        - {x: 95.44745, y: -6.373413}
+        - {x: 174.44745, y: 32.626587}
+        - {x: 250.44745, y: 198.62659}
+        - {x: 351.44745, y: 308.6266}
+        - {x: 351.44745, y: 364.6266}
+    - name: les_smoke_HD_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 364
+        height: 378
+      alignment: 9
+      pivot: {x: 0.013750518, y: 0.022924928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 335.9948, y: 364.33438}
+        - {x: 326.9948, y: 369.33438}
+        - {x: 226.99481, y: 369.33438}
+        - {x: 90.99481, y: 249.33438}
+        - {x: 7.994812, y: 101.33438}
+        - {x: -5.005188, y: 53.33438}
+        - {x: -5.005188, y: -2.665619}
+        - {x: 34.994812, y: -2.665619}
+        - {x: 90.99481, y: 24.334381}
+        - {x: 249.99481, y: 163.33438}
+        - {x: 335.9948, y: 305.33438}
+    - name: les_smoke_HD_7
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 34
+        width: 368
+        height: 375
+      alignment: 9
+      pivot: {x: 0.02206081, y: 0.013171173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 331.88162, y: 345.0608}
+        - {x: 325.88162, y: 359.0608}
+        - {x: 202.88162, y: 359.0608}
+        - {x: 13.881622, y: 168.0608}
+        - {x: -5.1183777, y: 69.06081}
+        - {x: -5.1183777, y: -3.9391937}
+        - {x: 51.881622, y: -3.9391937}
+        - {x: 89.88162, y: 31.060806}
+        - {x: 328.88162, y: 184.0608}
+        - {x: 331.88162, y: 243.0608}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

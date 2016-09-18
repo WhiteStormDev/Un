@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: ff625a4e77dc5e449bf48322cab38082
+timeCreated: 1455361652
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: magaz_+2_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: magaz_+2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1370
+        width: 1460
+        height: 678
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -451, y: -333}
+        - {x: -233, y: -333}
+        - {x: -203, y: -331}
+        - {x: -79, y: -319}
+        - {x: -79, y: -291}
+        - {x: -97, y: -238}
+        - {x: -155, y: -242}
+        - {x: -182, y: -176}
+        - {x: -197, y: -189}
+        - {x: -193, y: -222}
+        - {x: -177, y: -276}
+        - {x: -175, y: -276}
+        - {x: -175, y: -296}
+        - {x: -174, y: -297}
+        - {x: -174, y: -304}
+        - {x: -175, y: -292}
+        - {x: -179, y: -278}
+        - {x: -193, y: -234}
+        - {x: -199, y: -225}
+        - {x: -213, y: -218}
+        - {x: -219, y: -246}
+        - {x: -278, y: -305}
+        - {x: -340, y: -263}
+        - {x: -392, y: -188}
+        - {x: -409, y: -157}
+        - {x: -443, y: -152}
+        - {x: -514, y: 85}
+        - {x: -484, y: 44}
+        - {x: -444, y: 46}
+        - {x: -419, y: 69}
+        - {x: -364, y: 54}
+        - {x: -351, y: 66}
+        - {x: -350, y: 118}
+        - {x: -332, y: 192}
+        - {x: -347, y: 306}
+        - {x: -480, y: 339}
+        - {x: -595, y: 339}
+        - {x: -622, y: 300}
+        - {x: -630, y: 230}
+        - {x: -619, y: 88}
+        - {x: -632, y: -51}
+        - {x: -607, y: -68}
+        - {x: -653, y: -251}
+        - {x: -730, y: -305}
+        - {x: -730, y: -328}
+        - {x: -696, y: -333}
+        - {x: -522, y: -333}
+        - {x: -504, y: -328}
+        - {x: -491, y: -308}
+        - {x: -490, y: -302}
+        - {x: -479, y: -312}
+      - - {x: 605, y: -82}
+        - {x: 562, y: -206}
+        - {x: 562, y: -309}
+        - {x: 568, y: -313}
+        - {x: 588, y: -308}
+        - {x: 593, y: -304}
+        - {x: 612, y: -314}
+        - {x: 710, y: -314}
+        - {x: 717, y: -311}
+        - {x: 720, y: -177}
+        - {x: 720, y: -82}
+      - - {x: 512, y: -254}
+        - {x: 501, y: -263}
+        - {x: 499, y: -270}
+        - {x: 501, y: -281}
+        - {x: 495, y: -294}
+        - {x: 495, y: -298}
+        - {x: 498, y: -299}
+        - {x: 549, y: -299}
+        - {x: 560, y: -296}
+        - {x: 560, y: -277}
+        - {x: 538, y: -254}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

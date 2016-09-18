@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 2a0ebbec4a0f0cf448effbaa7356db91
+timeCreated: 1455262399
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: les_vetka_0
+    21300002: les_vetka_1
+    21300004: les_vetka_2
+    21300006: les_vetka_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: les_vetka_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386
+        width: 151
+        height: 126
+      alignment: 9
+      pivot: {x: 0.004039942, y: 0.58179367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 103.38997, y: 52.694}
+        - {x: 102.38997, y: 49.694}
+        - {x: 96.38997, y: 34.694}
+        - {x: 87.38997, y: 35.694}
+        - {x: 71.38997, y: 31.694}
+        - {x: 74.38997, y: 24.694}
+        - {x: 11.389969, y: 32.694}
+        - {x: -0.6100311, y: 11.694}
+        - {x: -0.6100311, y: -16.306}
+        - {x: 70.38997, y: -70.306}
+        - {x: 98.38997, y: -70.306}
+        - {x: 150.38997, y: -45.306}
+        - {x: 150.38997, y: 52.694}
+    - name: les_vetka_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 152
+        height: 121
+      alignment: 9
+      pivot: {x: -0.001737395, y: 0.58517355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88.264084, y: -66.806}
+        - {x: 89.264084, y: -70.806}
+        - {x: 109.264084, y: -70.806}
+        - {x: 109.264084, y: -61.806}
+        - {x: 106.264084, y: -50.806}
+        - {x: 97.264084, y: -44.806}
+        - {x: 88.264084, y: -44.806}
+      - - {x: 114.264084, y: 49.194}
+        - {x: 91.264084, y: 37.194}
+        - {x: 83.264084, y: 21.194}
+        - {x: 87.264084, y: 10.194}
+        - {x: 13.264084, y: 30.194}
+        - {x: 0.26408386, y: 10.194}
+        - {x: 0.26408386, y: -12.806}
+        - {x: 84.264084, y: -51.806}
+        - {x: 128.26408, y: -51.806}
+        - {x: 151.26408, y: -10.806}
+        - {x: 151.26408, y: 42.194}
+        - {x: 146.26408, y: 49.194}
+    - name: les_vetka_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 152
+        height: 131
+      alignment: 9
+      pivot: {x: -0.001737395, y: 0.56818223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 105.264084, y: -49.43187}
+        - {x: 93.264084, y: -49.43187}
+        - {x: 89.264084, y: -50.43187}
+        - {x: 89.264084, y: -64.43187}
+        - {x: 92.264084, y: -70.43187}
+        - {x: 101.264084, y: -72.43187}
+        - {x: 113.264084, y: -72.43187}
+        - {x: 113.264084, y: -63.43187}
+        - {x: 112.264084, y: -55.43187}
+      - - {x: 37.264084, y: 49.56813}
+        - {x: 0.26408386, y: 26.56813}
+        - {x: 0.26408386, y: -11.4318695}
+        - {x: 91.264084, y: -50.43187}
+        - {x: 122.264084, y: -50.43187}
+        - {x: 151.26408, y: 6.5681305}
+        - {x: 151.26408, y: 29.56813}
+        - {x: 143.26408, y: 49.56813}
+      - - {x: 92.264084, y: 56.56813}
+        - {x: 93.264084, y: 53.56813}
+        - {x: 107.264084, y: 53.56813}
+        - {x: 109.264084, y: 55.56813}
+        - {x: 109.264084, y: 56.56813}
+    - name: les_vetka_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 151
+        height: 122
+      alignment: 9
+      pivot: {x: -0.009610335, y: 0.6013704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95.451164, y: -50.367188}
+        - {x: 91.451164, y: -52.367188}
+        - {x: 91.451164, y: -65.36719}
+        - {x: 97.451164, y: -72.36719}
+        - {x: 115.451164, y: -72.36719}
+        - {x: 118.451164, y: -69.36719}
+        - {x: 117.451164, y: -63.367188}
+        - {x: 103.451164, y: -50.367188}
+      - - {x: 1.4511642, y: 46.632812}
+        - {x: 1.4511642, y: -12.3671875}
+        - {x: 92.451164, y: -51.367188}
+        - {x: 124.451164, y: -51.367188}
+        - {x: 152.45117, y: -7.3671875}
+        - {x: 152.45117, y: 46.632812}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
